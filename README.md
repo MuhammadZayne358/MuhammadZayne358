@@ -17,9 +17,9 @@ I'm a **.NET developer** who builds full-stack web applications with **ASP.NET C
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **AuraScents** | Full-stack perfume store with JWT auth, cart, checkout with saved addresses, and an admin panel. React + TypeScript frontend, ASP.NET Core 8 API, PostgreSQL. | [Live demo](https://ecommerce-client-orpin-kappa.vercel.app) · [Frontend](https://github.com/MuhammadZayne358/ecommerce-client) · [API](https://github.com/MuhammadZayne358/ecommerce-api) |
-| **CHRONOS** | Luxury watch store built with ASP.NET Core MVC, EF Core and SQL Server, with an AJAX cart, Identity authentication and an admin panel. 
-[Live demo](https://chronos.somee.com/)| [Code](https://github.com/MuhammadZayne358/MyPortfolio) |
+| **AuraScents** | Full-stack perfume store with JWT auth, cart, checkout with saved addresses, and an admin panel. React + TypeScript frontend, ASP.NET Core 8 API, PostgreSQL. | [Live Demo](https://ecommerce-client-orpin-kappa.vercel.app) · [Frontend](https://github.com/MuhammadZayne358/ecommerce-client) · [API](https://github.com/MuhammadZayne358/ecommerce-api) |
+| **CHRONOS** | Luxury watch store built with ASP.NET Core MVC, EF Core and SQL Server, with an AJAX cart, Identity authentication and an admin panel. | [Live Demo](https://chronos.somee.com/) · [Code](https://github.com/MuhammadZayne358/MyPortfolio) |
+
 
 ## Currently learning
 
